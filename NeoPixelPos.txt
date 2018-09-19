@@ -1,0 +1,3 @@
+Right wall: 0 to 206
+Middal front: 207 to 393
+Left wall: 394 to 442 and a bit to 446.  447 if you put it into led range
